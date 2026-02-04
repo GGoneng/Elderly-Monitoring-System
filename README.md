@@ -30,7 +30,7 @@ Also, The system includes a database (mariaDB) and web interface (Flask).
     → Helps detect **nearly constant values** in usage patterns, which may indicate solitary death events.
   - `Threshold` is not fixed, as it depends on the distribution of the dataset.
 - **Results**:
-  - Achieved 92% accuracy on a dataset of 100 samples
+  - Achieved 0.92 F1 Score on a dataset of 100 samples
     
 <br><br>
 ## 🛠️ Tech Stack
