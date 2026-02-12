@@ -2,6 +2,8 @@
 
 > ### **Monitoring System For Elderly Living Alone**
 
+<br><br>
+![Architecture Diagram](./docs/Elderly_Monitoring_System_result.png)
 
 
 <br><br>
